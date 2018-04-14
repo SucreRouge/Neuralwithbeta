@@ -1,1 +1,1 @@
-Gated neural networks are a feature selection technique that allow only relevant features to move to the neural networks.
+Feature redundancy control in Neural networks using Feature Selection Multi-Layer Perceptrons. The neural network here was written from scratch on Python. The project helped me grasp a better understanding of back-propagation learning algorithm. 
